@@ -1,0 +1,3 @@
+[submodule "community-guide"]
+	path = exponentialidle/community-guide
+	url = ../community-guide/
