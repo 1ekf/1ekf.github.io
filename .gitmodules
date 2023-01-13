@@ -1,2 +1,3 @@
 [submodule "exponentialidle/community"]
+	path = exponentialidle/community
 	url = https://github.com/1ekf/exidle-community.git
