@@ -1,3 +1,2 @@
-[submodule "community-guide"]
-	path = exponentialidle/community
-	url = https://github.com/1ekf/community-guide.git
+[submodule "exponentialidle/community"]
+	url = https://github.com/1ekf/exidle-community.git
